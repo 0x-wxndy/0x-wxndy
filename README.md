@@ -35,11 +35,11 @@ role       : Information Security Engineer @ EPE PROXYLAN SPA | CERIST Subsidiar
 status     : PhD Student — Systems & Networks Security
 research   : IoT & Digital Twins Security
              Lightweight Secure Protocols
-             Post-Quantum Cryptography (PQC) | Homomorphic Encryption
+             Post-Quantum Cryptography (PQC) | Homomorphic Encryption | Blockchain
              AI Agents for Anomaly Detection & Federated Learning
 degree     : M.S. Information Systems Security (Graduate)
 extra      : Game Dev Enthusiast • Digital Artist • CTF Author
-stack      : Unity · Unreal Engine 5 · Aseprite · libGDX · Flutter · Python
+stack      : Flutter · Python . C++ . C# . JAVA . Docker . Unity · Unreal Engine 5 · libGDX · Linux 
 ```
 
 ---
