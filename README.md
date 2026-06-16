@@ -146,9 +146,9 @@ $ ./RiiDE --find-trip
 
 ```bash
 $ shutdown -h now
-# session encrypted. traces purged. see you in the next exploit.
+# THANKS FOR YOUR VISIT, WATCH YOUR BACK.
 ```
 
-*built with caffeine, curiosity, and a suspicious number of open terminals*
+*ONE MUST IMAGINE WINDY HAPPY*
 
 </div>
